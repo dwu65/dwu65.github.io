@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Homework 4</title>
+	<meta name="description" content="This is CNIT 131H Homework 4">
+</head>
+
+<body>
+<div id="header"><h1>Homework Page Number 4</h1></div>
+<section>
+	<h2>Practicing Heading 2 Usage</h2>
+<article>
+	<h3>Practice List</h3>
+<ul>
+    <li><a href="https://www.ccsf.edu" target="_blank" rel="noopener noreferrer">City College of San Francisco</a></li>
+    <li><a href="https://sf-fire.org/fire-station-locations" target="_blank" rel="noopener noreferrer">San Francisco Fire Department Locations</a></li>
+    <li><a href="index.html">Homework 2</a></li>
+</ul>
+</article>
+<hr>
+<article>
+<h3>Practice Table</h3>
+<table>
+	<tr>
+		<th>List</th>
+		<th>Usage</th>
+	</tr>
+	<tr>
+		<td>Unordered List</td>
+		<td>A general list without hierarchy. Uses the tag &lt;ul&gt;</td>
+	</tr>
+	<tr>
+		<td>Ordered List</td>
+		<td>A list with order, as the name implies. Uses the tag &lt;ol&gt;</td>
+	<tr>
+		<td>Definition List</td>
+		<td>A list that comes in pairs, can be used to define items as the name implies. Uses the tag &lt;dl&gt;</td>
+	</tr>
+</table>
+</article>
+
+<article>
+<h3>Definition List</h3>
+<dl>
+    <dt>HTML</dt>
+    <dd>HyperText Markup Language</dd>
+    <dt>CSS</dt>
+    <dd>Cascading Style Sheets</dd>
+    <dt>FTP</dt>
+    <dd>File Transfer Protocol</dd>
+    <dt>SSH</dt>
+    <dd>Secure Shell Protocol</dd>
+</dl>
+</article>    
+
+<hr>
+<article>
+<h3>Unceremonious image placement</h3>
+    <figure>
+        <img src="https://www.ccsf.edu/sites/default/files/inline-images/CCSF%20LOGO.png" alt="City College of San Francisco Logo">
+        <figcaption>City College of San Francisco Logo</figcaption>
+    </figure>
+</article>
+<hr>
+</section>
+
+<footer>
+<p>50 Frida Khalo Way, San Francisco, CA 94112<br>
+415-555-1234<br>
+Copyright of Dawson Wu &copy; 2023</p>
+</footer>
+</body>
+</html>
